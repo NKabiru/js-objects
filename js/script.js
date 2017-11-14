@@ -1,3 +1,6 @@
+// Enables strict mode
+'use-strict';
+
 // Creation of Character object through function
 function Character(name, atk, def) {
     this.name = name;
